@@ -3,6 +3,10 @@ Basic Barebone Flask Hello World Web App!
 
 <br />
 
+[![flask-hello-world.png](https://i.postimg.cc/nznW14kb/flask-hello-world.png)](https://postimg.cc/VSH4fbpD)
+
+<br />
+
 # 👉 Set Up for Windows
 Install modules via VENV (windows)
 ```bash
@@ -37,7 +41,8 @@ At this point, the app runs at http://127.0.0.1:5000/.
 ```bash
 <PROJECT ROOT>.
 |   .gitignore
-|   main.py
+|   main.py             #Start the app
 |   README.md
 |   requirements.txt
 ```
+
